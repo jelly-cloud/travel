@@ -25,7 +25,7 @@ export default {
     bottom 0
     width .4rem
     .item
-      line-height .4rem
+      line-height .44rem
       text-align center
       color $bgColor
 </style>
