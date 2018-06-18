@@ -1,26 +1,6 @@
 <template>
   <ul class="list">
-<<<<<<< HEAD
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
-<<<<<<< HEAD
-=======
-    <li class="item">A</li>
-    <li class="item">A</li>
-    <li class="item">A</li>
->>>>>>> city-list
-=======
     <li class="item" v-for="(item, key) of cities" :key="key">{{key}}</li>
->>>>>>> city-ajax
   </ul>
 </template>
 
@@ -45,11 +25,7 @@ export default {
     bottom 0
     width .4rem
     .item
-<<<<<<< HEAD
       line-height .44rem
-=======
-      line-height .4rem
->>>>>>> city-list
       text-align center
       color $bgColor
 </style>
