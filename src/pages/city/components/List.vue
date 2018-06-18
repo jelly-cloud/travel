@@ -82,7 +82,11 @@ export default {
     right 0
     bottom 0
     .title
+<<<<<<< HEAD
       line-height .54rem
+=======
+      line-height .44rem
+>>>>>>> city-list
       background #eee
       pading-left .2rem
       color #666
