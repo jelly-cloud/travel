@@ -29,7 +29,7 @@ export default {
   name: 'CityAlphabet',
   props: {
     cities: Object
-  }
+  } 
 }
 </script>
 
